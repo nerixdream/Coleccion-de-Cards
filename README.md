@@ -2,6 +2,6 @@
 
 ## Colección de diseños de Cards con HTML, CSS y JS
 
-### Card 1 - Card Effect
+### Card 2 - Card Hover Effect
 
-![Screenshot](Card1.gif)
+![Screenshot](Card2.gif)
