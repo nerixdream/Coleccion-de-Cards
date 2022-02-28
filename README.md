@@ -2,6 +2,6 @@
 
 ## Colección de diseños de Cards con HTML, CSS y JS
 
-### Card 6 - Hover Effect 4
+### Card 7 - Flip Effect
 
-![Screenshot](Card6.gif)
+![Screenshot](Card7.gif)
